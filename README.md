@@ -16,6 +16,7 @@ This repo is dedicated to share how to solve Challenge Lab in Google Cloud Skill
 | GSP322 - Build and Secure Networks in Google Cloud: Challenge Lab                       | GSP322                       | [GSP322](https://youtu.be/VbwP_kUQtOs) |
 | GSP330 - Implement DevOps in Google Cloud: Challenge Lab                                | GSP330                       | [GSP330](https://youtu.be/zrQjH22czUs) |
 | GSP342 - Ensure Access & Identity in Google Cloud: Challenge Lab                        | GSP342                       | [GSP342](https://youtu.be/RJrRDUb2Ppw) |
+| GSP344 - Serverless Firebase Development: Challenge Lab                                 | [GSP344](Commands/GSP344.md) | [GSP344](https://youtu.be/BI5HuE-nZls) |
 | GSP345 - Automating Infrastructure on Google Cloud with Terraform: Challenge Lab        | GSP345                       | [GSP345](https://youtu.be/XyZj2q0UDUo) |
 | GSP355 - Manage PostgreSQL Databases on Cloud SQL: Challenge Lab                        | GSP355                       | [GSP355](https://youtu.be/3ygc1eWcdVo) |
 | GSP373 - Protect Cloud Traffic with BeyondCorp Enterprise (BCE) Security: Challenge Lab | GSP373                       | [GSP373](https://youtu.be/S_juzMQvkks) |
