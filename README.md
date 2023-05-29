@@ -20,3 +20,4 @@ This repo is dedicated to share how to solve Challenge Lab in Google Cloud Skill
 | GSP345 - Automating Infrastructure on Google Cloud with Terraform: Challenge Lab        | GSP345                       | [GSP345](https://youtu.be/XyZj2q0UDUo) |
 | GSP355 - Manage PostgreSQL Databases on Cloud SQL: Challenge Lab                        | GSP355                       | [GSP355](https://youtu.be/3ygc1eWcdVo) |
 | GSP373 - Protect Cloud Traffic with BeyondCorp Enterprise (BCE) Security: Challenge Lab | GSP373                       | [GSP373](https://youtu.be/S_juzMQvkks) |
+| GSP395 - Create and Manage AlloyDB Databases - Challenge Lab                            | [GSP395](Commands/GSP395.md) | [GSP395](https://youtu.be/VTR3Bd41www) |
