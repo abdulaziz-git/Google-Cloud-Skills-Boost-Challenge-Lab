@@ -9,6 +9,7 @@ This repo is dedicated to share how to solve Challenge Lab in Google Cloud Skill
 | Challenge Lab                                                                           | Commands                     | Video                                  |
 | --------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------- |
 | GSP313 - Create and Manage Cloud Resources: Challenge Lab                               | GSP313                       | [GSP313](https://youtu.be/zv25HHm8kmA) |
+| GSP313 - Create and Manage Cloud Resources: Challenge Lab (CLI version)                 | [GSP313](Commands/GSP313.md) | [GSP313](https://youtu.be/-j-qLl0V4bs) |
 | GSP315 - Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab       | GSP315                       | [GSP315](https://youtu.be/Kz1hAcN9Fak) |
 | GSP318 - Deploy to Kubernetes in Google Cloud: Challenge Lab                            | GSP318                       | [GSP318](https://youtu.be/wPOufQeHX9c) |
 | GSP319 - Build a Website on Google Cloud: Challenge Lab                                 | [GSP319](Commands/GSP319.md) | [GSP319](https://youtu.be/XgU0zYh0RqY) |
